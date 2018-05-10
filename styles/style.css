@@ -1,0 +1,36 @@
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;    
+    color: #3F7FBF;
+    text-shadow: 3px 3px 5px black;
+}
+
+p, li {
+    font-size: 16px;    
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+#coffeeImage {
+    display: block;
+    width: 500px;
+    /* align-content: center; */
+    margin: 0 auto;
+    /* height: 500px; */
+}
+
+html {
+    font-size: 10px; /* px 意为“像素（pixels）”: 这个基础字体的尺寸现在是10像素  */
+    font-family: 'Pangolin', cursive;
+    background-color: #3F7FBF;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
